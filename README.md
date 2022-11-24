@@ -2,9 +2,9 @@
 
 ![pic1](https://user-images.githubusercontent.com/111251560/203698092-145d2591-8388-482f-9309-a12a706992e1.png)
 
-[Index.html File](index.hhtml)
+[Index.html File](index.html)
 
-[charts.js File](chart.js)
+[charts.js File](charts.js)
 
 [samples File](sample_new.json)
 
