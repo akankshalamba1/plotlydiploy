@@ -1,0 +1,9 @@
+body {
+    background-color: hsla(189, 87%, 58%, 0.543);}
+     
+     .jumbotron {
+         background-image: url("/Image.jpg");
+         background-size: cover;
+         text-align: center;
+         color: rgb(45, 103, 226)
+     }
